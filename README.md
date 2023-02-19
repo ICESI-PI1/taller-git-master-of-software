@@ -1,10 +1,8 @@
-# HU9 - Crear plan tentativo 
+# HU9: Crear plan tentativo 
 
-**Descripción**
+Yo como **estudiante**  deseo poder crear un plan tentativo que me permita visualizar las materias que voy a tomar en el semestre para poder acceder de manera rápida a este plan tentativo.
 
-Yo como estudiante  deseo poder crear un plan tentativo que me permita visualizar las materias que voy a tomar en el semestre para poder acceder de manera rápida a este plan tentativo.
-
-**Criterios de aceptación**
+Criterios de aceptación
 
 - El sistema muestra un calendario visual que permite a los estudiantes verificar sus horarios y el horario de las materias seleccionadas.
 
