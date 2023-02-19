@@ -33,3 +33,10 @@ Criterios de aceptación
 - El sistema permite a los estudiantes agregar, eliminar o cambiar las materias en su plan tentativo antes de la matrícula oficial.
 
 - El sistema permite a los estudiantes guardar su plan tentativo y recuperarlo en una fecha
+
+# HU5: Calcular grupos
+
+Yo como **director de carrera**
+deseo poder **calcular automaticámente la cantidad de grupos necesarios para agilizar el proceso de prematricula**.
+Criterios de aceptacion:
+- El sistema debe permitir visualizar la cantidad de estudiantes que vayan a matricular los cursos.
