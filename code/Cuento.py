@@ -52,7 +52,7 @@ class Cuento:
 
 cuentos = []
 
-for i in range(2):
+for i in range(5):
     print("cuento ", str(i+1), ":")
     autor = Autor(input("Ingrese el nombre del autor:\n"),input("Ingrese el género del autor\n"),input("Ingrese la fecha de nacimiento del autor\n"),input("Ingrese la fecha de deceso del autor\n"))
     genero = input("Ingrese el género del cuento: \n")
