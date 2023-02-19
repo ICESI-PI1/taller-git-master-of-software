@@ -25,3 +25,11 @@ Deseo **prematricular los cursos que quiero ver el siguiente semestre para saber
 Criterios de aceptación:
 -El sistema debe permitir ingresar el semestre que cursará el estudiante, su plan de estudios y su código, de modo que obtenga la información necesaria para aplicar el filtro.
 -El sistema debe mostrar una notificación cuando una vez se haya prematriculado exitosamente un curso o mostrar un error de ser necesario.
+
+# HU8: Visualizar fechas académicas
+
+Yo como **estudiante** 
+quiero poder **visualizar las fechas de actividades académicas para planificar mejor los cursos que pre-matricule.**
+Criterios de aceptación:
+- El sistema debe mostrar un calendario con los evento importantes.
+- El sistema debe enviar una notificación por correo una vez esté abierto para los estudiantes.
