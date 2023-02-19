@@ -1,15 +1,3 @@
-# HU9: Crear plan tentativo 
-
-Yo como **estudiante**  deseo poder crear un plan tentativo que me permita visualizar las materias que voy a tomar en el semestre para poder acceder de manera rápida a este plan tentativo.
-
-Criterios de aceptación
-
-- El sistema muestra un calendario visual que permite a los estudiantes verificar sus horarios y el horario de las materias seleccionadas.
-
-- El sistema permite a los estudiantes agregar, eliminar o cambiar las materias en su plan tentativo antes de la matrícula oficial.
-
-- El sistema permite a los estudiantes guardar su plan tentativo y recuperarlo en una fecha
-
 # HU4: Registrar curso
 
 Yo como **director de programa**
@@ -33,3 +21,15 @@ quiero poder **visualizar las fechas de actividades académicas para planificar 
 Criterios de aceptación:
 - El sistema debe mostrar un calendario con los evento importantes.
 - El sistema debe enviar una notificación por correo una vez esté abierto para los estudiantes.
+
+# HU9: Crear plan tentativo 
+
+Yo como **estudiante** deseo poder crear un plan tentativo que me permita visualizar las materias que voy a tomar en el semestre para poder acceder de manera rápida a este plan tentativo.
+
+Criterios de aceptación
+
+- El sistema muestra un calendario visual que permite a los estudiantes verificar sus horarios y el horario de las materias seleccionadas.
+
+- El sistema permite a los estudiantes agregar, eliminar o cambiar las materias en su plan tentativo antes de la matrícula oficial.
+
+- El sistema permite a los estudiantes guardar su plan tentativo y recuperarlo en una fecha
